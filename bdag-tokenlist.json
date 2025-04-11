@@ -1,0 +1,16 @@
+{
+  "name": "BLOCKDAG Token List",
+  "tags": {},
+  "timestamp": "2025-04-11T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "J7oKnJL8hj8XDWdJCK3Mo5sr7wYLVGtaxdZZRYwdkg5D",
+      "symbol": "BDAG",
+      "name": "BLOCKDAG",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/BDAGDEV/bdag/main/BlockDAG.png",
+      "tags": ["community"]
+    }
+  ]
+}
