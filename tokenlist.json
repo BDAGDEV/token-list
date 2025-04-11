@@ -1,0 +1,9 @@
+{
+  "name": "BlockDAG",
+  "symbol": "BDAG",
+  "address": "J7oKnJL8hj8XDWdJCK3Mo5sr7wYLVGtaxdZZRYwdkg5D",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/BDAGDEV/bdag/main/BlockDAG.png",
+  "tags": ["utility-token"],
+  "chainId": 101
+}
